@@ -1,0 +1,10 @@
+{
+    "go.autocompleteUnimportedPackages": true,
+    "go.coverOnSave": true,
+    "go.coverOnSingleTest": true,
+    "go.coverOnSingleTestFile": false,
+    "go.coverShowCounts": true,
+    "go.gocodeAutoBuild": true,
+    "go.gotoSymbol.includeGoroot": true,
+    "go.gotoSymbol.includeImports": true
+}
